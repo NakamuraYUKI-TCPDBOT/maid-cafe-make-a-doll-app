@@ -11,11 +11,6 @@ products = {
             "name": "ちょこっとチョコケーキ",
             "price": 30000,
             "increments": [1, 5, 10]
-        },
-        {
-            "name": "てすとかも",
-            "price": 30000,
-            "increments": [1, 5, 10]
         }
     ],
     "飲み物": [
@@ -44,6 +39,7 @@ products = {
         }
     ]
 }
+
 
 
 
