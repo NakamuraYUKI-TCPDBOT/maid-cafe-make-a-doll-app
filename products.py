@@ -28,7 +28,7 @@ products = {
     "ジョイント":[
         {
             "name":"JOINT",
-            "price": 0,
+            "price": 40000,
             "increments": [1, 5, 10]
         }
     ],
@@ -39,3 +39,4 @@ products = {
         }
     ]
 }
+
