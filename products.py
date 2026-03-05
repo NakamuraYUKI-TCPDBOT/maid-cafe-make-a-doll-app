@@ -13,7 +13,7 @@ products = {
             "increments": [1, 5, 10]
         },
         {
-            "name": "おいしいね？",
+            "name": "てすとかも",
             "price": 30000,
             "increments": [1, 5, 10]
         }
@@ -44,5 +44,6 @@ products = {
         }
     ]
 }
+
 
 
