@@ -27,7 +27,12 @@ products = {
     ],
     "ジョイント":[
         {
-            "name":"JOINT",
+            "name":"Mugi",
+            "price": 40000,
+            "increments": [1, 5, 10]
+        },
+        {
+            "name":"Tima",
             "price": 40000,
             "increments": [1, 5, 10]
         }
@@ -39,6 +44,7 @@ products = {
         }
     ]
 }
+
 
 
 
