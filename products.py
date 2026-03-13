@@ -29,12 +29,12 @@ products = {
         {
             "name":"Mugi",
             "price": 40000,
-            "increments": [1, 5, 10]
+            "increments": [5, 10, 100]
         },
         {
             "name":"Tima",
             "price": 40000,
-            "increments": [1, 5, 10]
+            "increments": [5, 10, 100]
         }
     ],
     "スペシャル":[
@@ -44,6 +44,7 @@ products = {
         }
     ]
 }
+
 
 
 
