@@ -11,6 +11,11 @@ products = {
             "name": "ちょこっとチョコケーキ",
             "price": 30000,
             "increments": [1, 5, 10]
+        },
+        {
+            "name": "にゃんてこったパンナコッタ",
+            "price": 30000,
+            "increments": [1, 5, 10]
         }
     ],
     "飲み物": [
@@ -27,15 +32,26 @@ products = {
     ],
     "ジョイント":[
         {
-            "name":"Mugi",
+            "name":"むぎキーホルダー",
             "price": 40000,
             "increments": [5, 10, 100]
         },
         {
-            "name":"Tima",
+            "name":"ちまキーホルダー",
+            "price": 40000,
+            "increments": [5, 10, 100]
+        },
+        {
+            "name":"らむねキーホルダー",
+            "price": 40000,
+            "increments": [5, 10, 100]
+        },
+        {
+            "name":"ねむキーホルダー",
             "price": 40000,
             "increments": [5, 10, 100]
         }
+        
     ],
     "スペシャル":[
         {
