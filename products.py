@@ -35,6 +35,21 @@ products = {
             "name":"ねむキーホルダー",
             "price": 40000,
             "increments": [5, 10, 100]
+        },
+        {
+            "name":"ひなキーホルダー",
+            "price": 40000,
+            "increments": [5, 10, 100]
+        },
+        {
+            "name":"敦賀キーホルダー",
+            "price": 40000,
+            "increments": [5, 10, 100]
+        },
+        {
+            "name":"紬希キーホルダー",
+            "price": 40000,
+            "increments": [5, 10, 100]
         }
         
     ],
