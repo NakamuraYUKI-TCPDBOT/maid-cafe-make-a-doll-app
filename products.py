@@ -54,17 +54,17 @@ products = {
     ],
     "イベント限定":[
         {
-            "name":"ご褒美パンケーキ",
+            "name":"ご褒美パンケーキ(Food)",
             "price": 40000,
             "increments": [5, 10, 100]
         },
         {
-            "name":"琥珀のたぴたぴミルクラテ",
+            "name":"琥珀のたぴたぴミルクラテ(Drink)",
             "price": 40000,
             "increments": [5, 10, 100]
         },
         {
-            "name":"パリパリりんご飴",
+            "name":"パリパリりんご飴(Joint)",
             "price": 40000,
             "increments": [5, 10, 100]
         }
