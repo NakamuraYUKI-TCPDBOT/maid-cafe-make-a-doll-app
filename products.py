@@ -69,6 +69,23 @@ products = {
             "increments": [5, 10, 100]
         }
     ],
+    "シール交換":[
+        {
+            "name":"にゃんてこったパフェ",
+            "price": 5,
+            "increments": [1, 5, 10]
+        },
+        {
+            "name":"クマバルーン",
+            "price": 200,
+            "increments": [1, 5, 10]
+        },
+        {
+            "name":"ボイス",
+            "price": 400,
+            "increments": [1, 5, 10]
+        }
+    ],
     "スペシャル":[
         {
             "name":"チェキ💕",
